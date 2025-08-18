@@ -23,10 +23,10 @@ In this project, I was mainly responsible for:
   Analyzed the characteristics of each cluster by examining audio features (e.g., danceability, energy, tempo) to provide meaningful insights on how songs are grouped and how they resemble actual Spotify playlists.  
 
 - **Project Documentation**  
-  Co-authored the final project report, documenting methodology, experiment results, and key findings in a structured academic format. [^1]  
+  Co-authored the final project report, documenting methodology, experiment results, and key findings. [^1]  
 
 ---
 
 📌 *This project was developed as part of our **Big Data course final project**.*  
 
-[^1]: For more details, please refer to our [full project report](./Final%20Project%20Report.pdf).
+[^1]: For more details, please refer to our [full project report](https://github.com/Zikri-Rmdhn/Big-Data-Final-Project/blob/main/Final%20Project%20Report.pdf).
