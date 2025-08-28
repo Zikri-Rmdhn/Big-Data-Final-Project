@@ -27,6 +27,11 @@ In this project, I was mainly responsible for:
 
 ---
 
+### Presentation & Storytelling
+In the presentation, we structured our work as a **data storytelling exercise**. We began by introducing the goal of the project and providing an overview of the dataset, including its main features. Next, we explained the steps we took in **EDA, preprocessing, and feature engineering**, highlighting the transformations applied to make the dataset more informative. We then presented the **clustering methods** we applied, followed by the results. I specifically described the characteristics of each cluster by analyzing the top songs within them and linking these to particular genres and feature patterns. Finally, we compared the results of all three methods and concluded which one produced the most coherent and meaningful playlist. This process not only showcased our technical workflow but also allowed us to practice **communicating insights effectively through data storytelling**.
+
+---
+
 📌 *This project was developed as part of our **Big Data course final project**.*  
 
 [^1]: For more details, please refer to our [full project report](https://github.com/Zikri-Rmdhn/Big-Data-Final-Project/blob/main/Final%20Project%20Report.pdf).
